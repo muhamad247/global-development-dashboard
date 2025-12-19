@@ -1,0 +1,186 @@
+Country,Cluster_K2,Cluster_K4,GDP,Life_Expectancy,Physicians_per_1000,Infant_Mortality
+Afghanistan,Developing,Lower-Middle Income,19101353833.0,64.5,0.28,47.9
+Albania,Developed,Low-Income,15278077447.0,78.5,1.2,7.8
+Algeria,Developed,High-Income,169988236398.0,76.7,1.72,20.1
+Angola,Developing,Lower-Middle Income,94635415870.0,60.8,0.21,51.6
+Antigua and Barbuda,Developed,Low-Income,1727759259.0,76.9,2.76,5.0
+Argentina,Developed,High-Income,449663446954.0,76.5,3.96,8.8
+Armenia,Developed,Low-Income,13672802158.0,74.9,4.4,11.0
+Australia,Developed,Upper-Middle Income,1392680589329.0,82.7,3.68,3.1
+Austria,Developed,Upper-Middle Income,446314739528.0,81.6,5.17,2.9
+Azerbaijan,Developed,High-Income,39207000000.0,72.9,3.45,19.2
+The Bahamas,Developed,Low-Income,12827000000.0,73.8,1.94,8.3
+Bahrain,Developed,Upper-Middle Income,38574069149.0,77.2,0.93,6.1
+Bangladesh,Developed,High-Income,302571254131.0,72.3,0.58,25.1
+Barbados,Developed,Low-Income,5209000000.0,79.1,2.48,11.3
+Belarus,Developed,Upper-Middle Income,63080457023.0,74.2,5.19,2.6
+Belgium,Developed,Upper-Middle Income,529606710418.0,81.6,3.07,2.9
+Belize,Developing,Low-Income,1879613600.0,74.5,1.12,11.2
+Benin,Developing,Lower-Middle Income,14390709095.0,61.5,0.08,60.5
+Bhutan,Developing,Low-Income,2446674101.0,71.5,0.42,24.8
+Bolivia,Developed,High-Income,40895322865.0,71.2,1.59,21.8
+Bosnia and Herzegovina,Developed,Upper-Middle Income,20047848435.0,77.3,2.16,5.0
+Botswana,Developing,Lower-Middle Income,18340510789.0,69.3,0.37,30.0
+Brazil,Developed,High-Income,1839758040766.0,75.7,2.15,12.8
+Brunei,Developed,Low-Income,13469422941.0,75.7,1.61,9.8
+Bulgaria,Developed,Upper-Middle Income,86000000000.0,74.9,4.03,5.9
+Burkina Faso,Developing,Lower-Middle Income,15745810235.0,61.2,0.08,49.0
+Burundi,Developing,Lower-Middle Income,3012334882.0,61.2,0.1,41.0
+Ivory Coast,Developing,Lower-Middle Income,58792205642.0,57.4,0.23,59.4
+Cape Verde,Developing,Low-Income,1981845741.0,72.8,0.77,16.7
+Cambodia,Developing,Lower-Middle Income,27089389787.0,69.6,0.17,24.0
+Cameroon,Developing,Lower-Middle Income,38760467033.0,58.9,0.09,50.6
+Canada,Developed,Upper-Middle Income,1736425629520.0,81.9,2.61,4.3
+Central African Republic,Developing,Lower-Middle Income,2220307369.0,52.8,0.06,84.5
+Chad,Developing,Lower-Middle Income,11314951343.0,54.0,0.04,71.4
+Chile,Developed,Upper-Middle Income,282318159745.0,80.0,2.59,6.2
+China,Developed,High-Income,19910000000000.0,77.0,1.98,7.4
+Colombia,Developed,High-Income,323802808108.0,77.1,2.18,12.2
+Comoros,Developing,Lower-Middle Income,1185728677.0,64.1,0.27,51.3
+Republic of the Congo,Developing,Lower-Middle Income,10820591131.0,64.3,0.12,36.2
+Costa Rica,Developed,Upper-Middle Income,61773944174.0,80.1,2.89,7.6
+Croatia,Developed,Upper-Middle Income,60415553039.0,78.1,3.0,4.0
+Cuba,Developed,Upper-Middle Income,100023000000.0,78.7,8.42,3.7
+Cyprus,Developed,Upper-Middle Income,24564647935.0,80.8,1.95,1.9
+Czech Republic,Developed,Upper-Middle Income,246489245495.0,79.0,4.12,2.7
+Democratic Republic of the Congo,Developing,Lower-Middle Income,47319624204.0,60.4,0.07,68.2
+Denmark,Developed,Upper-Middle Income,348078018464.0,81.0,4.01,3.6
+Djibouti,Developing,Lower-Middle Income,3318716359.0,66.6,0.22,49.8
+Dominica,Developing,Low-Income,596033333.0,76.6,1.08,32.9
+Dominican Republic,Developed,High-Income,88941298258.0,73.9,1.56,24.1
+Ecuador,Developed,High-Income,107435665000.0,76.8,2.04,12.2
+Egypt,Developed,High-Income,303175127598.0,71.8,0.45,18.1
+El Salvador,Developed,High-Income,27022640000.0,73.1,1.57,11.8
+Equatorial Guinea,Developing,Lower-Middle Income,11026774945.0,58.4,0.4,62.6
+Eritrea,Developing,Lower-Middle Income,2065001626.0,65.9,0.06,31.3
+Estonia,Developed,Upper-Middle Income,31386949981.0,78.2,4.48,2.1
+Ethiopia,Developing,Lower-Middle Income,96107662398.0,66.2,0.08,39.1
+Fiji,Developing,Low-Income,5535548972.0,67.3,0.84,21.6
+Finland,Developed,Upper-Middle Income,268761201365.0,81.7,3.81,1.4
+France,Developed,Upper-Middle Income,2715518274227.0,82.5,3.27,3.4
+Gabon,Developing,Lower-Middle Income,16657960228.0,66.2,0.68,32.7
+The Gambia,Developing,Lower-Middle Income,1763819048.0,61.7,0.1,39.0
+Georgia,Developed,Upper-Middle Income,17743195770.0,73.6,7.12,8.7
+Germany,Developed,Upper-Middle Income,3845630030824.0,80.9,4.25,3.1
+Ghana,Developing,Lower-Middle Income,66983634224.0,63.8,0.14,34.9
+Greece,Developed,Upper-Middle Income,209852761469.0,81.3,5.48,3.6
+Grenada,Developing,Low-Income,1228170370.0,72.4,1.41,13.7
+Guatemala,Developing,High-Income,76710385880.0,74.1,0.35,22.1
+Guinea,Developing,Lower-Middle Income,13590281809.0,61.2,0.08,64.9
+Guinea-Bissau,Developing,Lower-Middle Income,1340389411.0,58.0,0.13,54.0
+Guyana,Developing,Low-Income,4280443645.0,69.8,0.8,25.1
+Haiti,Developing,Lower-Middle Income,8498981821.0,63.7,0.23,49.5
+Honduras,Developing,Low-Income,25095395475.0,75.1,0.31,15.1
+Hungary,Developed,Upper-Middle Income,160967157504.0,75.8,3.41,3.6
+Iceland,Developed,Upper-Middle Income,24188035739.0,82.7,4.08,1.5
+India,Developed,High-Income,2611000000000.0,69.4,0.86,29.9
+Indonesia,Developed,High-Income,1119190780753.0,71.5,0.43,21.1
+Iran,Developed,High-Income,445345282123.0,76.5,1.58,12.4
+Iraq,Developed,High-Income,234094042939.0,70.5,0.71,22.5
+Republic of Ireland,Developed,Upper-Middle Income,388698711348.0,82.3,3.31,3.1
+Israel,Developed,Upper-Middle Income,395098666122.0,82.8,4.62,3.0
+Italy,Developed,Upper-Middle Income,2001244392042.0,82.9,3.98,2.6
+Jamaica,Developed,Low-Income,16458071068.0,74.4,1.31,12.4
+Japan,Developed,Upper-Middle Income,5081769542380.0,84.2,2.41,1.8
+Jordan,Developed,High-Income,43743661972.0,74.4,2.32,13.9
+Kazakhstan,Developed,High-Income,180161741180.0,73.2,3.25,8.8
+Kenya,Developing,Lower-Middle Income,95503088538.0,66.3,0.16,30.6
+Kiribati,Developing,Low-Income,194647202.0,68.1,0.2,41.2
+Kuwait,Developed,High-Income,134761198946.0,75.4,2.58,6.7
+Kyrgyzstan,Developing,Low-Income,8454619608.0,71.4,1.88,16.9
+Laos,Developing,Lower-Middle Income,18173839128.0,67.6,0.37,37.6
+Latvia,Developed,Upper-Middle Income,34117202555.0,74.7,3.19,3.3
+Lebanon,Developed,Upper-Middle Income,53367042272.0,78.9,2.1,6.4
+Lesotho,Developing,Lower-Middle Income,2460072444.0,53.7,0.07,65.7
+Liberia,Developing,Lower-Middle Income,3070518100.0,63.7,0.04,53.5
+Libya,Developed,High-Income,52076250948.0,72.7,2.09,10.2
+Lithuania,Developed,Upper-Middle Income,54219315600.0,75.7,6.35,3.3
+Luxembourg,Developed,Upper-Middle Income,71104919108.0,82.1,3.01,1.9
+Madagascar,Developing,Lower-Middle Income,14083906357.0,66.7,0.18,38.2
+Malawi,Developing,Lower-Middle Income,7666704427.0,63.8,0.04,35.3
+Malaysia,Developed,High-Income,364701517788.0,76.0,1.51,6.7
+Maldives,Developed,Low-Income,5729248472.0,78.6,4.56,7.4
+Mali,Developing,Lower-Middle Income,17510141171.0,58.9,0.13,62.0
+Malta,Developed,Low-Income,14786156563.0,82.3,2.86,6.1
+Marshall Islands,Developing,Low-Income,221278000.0,65.2,0.42,27.4
+Mauritania,Developing,Lower-Middle Income,7593752450.0,64.7,0.19,51.5
+Mauritius,Developed,Low-Income,14180444557.0,74.4,2.53,13.6
+Mexico,Developed,High-Income,1258286717125.0,75.0,2.38,11.0
+Federated States of Micronesia,Developing,Low-Income,401932279.0,67.8,0.18,25.6
+Moldova,Developed,Low-Income,11955435457.0,71.8,3.21,13.6
+Mongolia,Developed,High-Income,13852850259.0,69.7,2.86,14.0
+Montenegro,Developed,Low-Income,5494736901.0,76.8,2.76,2.3
+Morocco,Developed,High-Income,118725279596.0,76.5,0.73,19.2
+Mozambique,Developing,Lower-Middle Income,14934159926.0,60.2,0.08,54.0
+Myanmar,Developing,Lower-Middle Income,76085852617.0,66.9,0.68,36.8
+Namibia,Developing,Lower-Middle Income,12366527719.0,63.4,0.42,29.0
+Nepal,Developing,High-Income,30641380604.0,70.5,0.75,26.7
+Netherlands,Developed,Upper-Middle Income,909070395161.0,81.8,3.61,3.3
+New Zealand,Developed,Upper-Middle Income,206928765544.0,81.9,3.59,4.7
+Nicaragua,Developed,Low-Income,12520915291.0,74.3,0.98,15.7
+Niger,Developing,Lower-Middle Income,12928145120.0,62.0,0.04,48.0
+Nigeria,Developing,Lower-Middle Income,448120428859.0,54.3,0.38,75.7
+North Korea,Developed,High-Income,32100000000.0,72.1,3.67,13.7
+Norway,Developed,Upper-Middle Income,403336363636.0,82.8,2.92,2.1
+Oman,Developed,Upper-Middle Income,76983094928.0,77.6,2.0,9.8
+Pakistan,Developing,Lower-Middle Income,304400000000.0,67.1,0.98,57.2
+Palau,Developing,Low-Income,283994900.0,69.1,1.18,16.6
+Panama,Developed,Upper-Middle Income,66800800000.0,78.3,1.57,13.1
+Papua New Guinea,Developing,Lower-Middle Income,24969611435.0,64.3,0.07,38.0
+Paraguay,Developed,High-Income,38145288940.0,74.1,1.35,17.2
+Peru,Developed,High-Income,226848050820.0,76.5,1.27,11.1
+Philippines,Developed,High-Income,376795508680.0,71.1,0.6,22.5
+Poland,Developed,Upper-Middle Income,592164400688.0,77.6,2.38,3.8
+Portugal,Developed,Upper-Middle Income,237686075635.0,81.3,5.12,3.1
+Qatar,Developed,Upper-Middle Income,183466208791.0,80.1,2.49,5.8
+Romania,Developed,High-Income,250077444017.0,75.4,2.98,6.1
+Russia,Developed,High-Income,1699876578871.0,72.7,4.01,6.1
+Rwanda,Developing,Lower-Middle Income,10122472590.0,68.7,0.13,27.0
+Saint Kitts and Nevis,Developing,Low-Income,1050992593.0,71.3,2.52,9.8
+Saint Lucia,Developing,Low-Income,2122450630.0,76.1,0.64,14.9
+Saint Vincent and the Grenadines,Developing,Low-Income,825385185.0,72.4,0.66,14.8
+Samoa,Developing,Low-Income,850655017.0,73.2,0.34,13.6
+San Marino,Developed,Low-Income,1637931034.0,85.4,6.11,1.7
+S�����������,Developing,Low-Income,429016605.0,70.2,0.05,24.4
+Saudi Arabia,Developed,High-Income,792966838162.0,75.0,2.61,6.0
+Senegal,Developing,Lower-Middle Income,23578084052.0,67.7,0.07,31.8
+Serbia,Developed,Upper-Middle Income,51409167351.0,75.5,3.11,4.8
+Seychelles,Developing,Low-Income,1698843063.0,72.8,0.95,12.4
+Sierra Leone,Developing,Lower-Middle Income,3941474311.0,54.3,0.03,78.5
+Singapore,Developed,Upper-Middle Income,372062527489.0,83.1,2.29,2.3
+Slovakia,Developed,Upper-Middle Income,105422304976.0,77.2,3.42,4.6
+Slovenia,Developed,Upper-Middle Income,53742159517.0,81.0,3.09,1.7
+Solomon Islands,Developing,Low-Income,1425074226.0,72.8,0.19,17.1
+Somalia,Developing,Lower-Middle Income,4720727278.0,57.1,0.02,76.6
+South Africa,Developing,Lower-Middle Income,351431649241.0,63.9,0.91,28.5
+South Korea,Developed,Upper-Middle Income,2029000000000.0,82.6,2.36,2.7
+Spain,Developed,Upper-Middle Income,1394116310769.0,83.3,3.87,2.5
+Sri Lanka,Developed,Upper-Middle Income,84008783756.0,76.8,1.0,6.4
+Sudan,Developing,Lower-Middle Income,18902284476.0,65.1,0.26,42.1
+Suriname,Developing,Low-Income,3985250737.0,71.6,1.21,16.9
+Sweden,Developed,Upper-Middle Income,530832908738.0,82.5,3.98,2.2
+Switzerland,Developed,Upper-Middle Income,703082435360.0,83.6,4.3,3.7
+Syria,Developed,High-Income,40405006007.0,71.8,1.22,14.0
+Tajikistan,Developing,Low-Income,8116626794.0,70.9,1.7,30.4
+Tanzania,Developing,Lower-Middle Income,63177068175.0,65.0,0.01,37.6
+Thailand,Developed,High-Income,543649976166.0,76.9,0.81,7.8
+East Timor,Developing,Low-Income,1673540300.0,69.3,0.72,39.3
+Togo,Developing,Lower-Middle Income,5459979417.0,60.8,0.08,47.4
+Tonga,Developing,Low-Income,450353314.0,70.8,0.52,13.4
+Trinidad and Tobago,Developed,High-Income,24100202834.0,73.4,4.17,16.4
+Tunisia,Developed,High-Income,38797709924.0,76.5,1.3,14.6
+Turkey,Developed,High-Income,754411708203.0,77.4,1.85,9.1
+Turkmenistan,Developing,High-Income,40761142857.0,68.1,2.22,39.3
+Uganda,Developing,Lower-Middle Income,34387229486.0,63.0,0.17,33.8
+Ukraine,Developed,High-Income,153781069118.0,71.6,2.99,7.5
+United Arab Emirates,Developed,Upper-Middle Income,421142267938.0,77.8,2.53,6.5
+United Kingdom,Developed,Upper-Middle Income,2827113184696.0,81.3,2.81,3.6
+United States,Developed,High-Income,21427700000000.0,78.5,2.61,5.6
+Uruguay,Developed,Upper-Middle Income,56045912952.0,77.8,5.05,6.4
+Uzbekistan,Developed,High-Income,57921286440.0,71.6,2.37,19.1
+Vanuatu,Developing,Low-Income,917058851.0,70.3,0.17,22.3
+Venezuela,Developed,High-Income,482359318768.0,72.1,1.92,21.4
+Vietnam,Developed,High-Income,261921244843.0,75.3,0.82,16.5
+Yemen,Developing,Lower-Middle Income,26914402224.0,66.1,0.31,42.9
+Zambia,Developing,Lower-Middle Income,23064722446.0,63.5,1.19,40.4
+Zimbabwe,Developing,Lower-Middle Income,21440758800.0,61.2,0.21,33.9
