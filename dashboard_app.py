@@ -69,7 +69,7 @@ life_exp_range = st.sidebar.slider(
 )
 
 # Add button to clear selection and reset filters
-if st.sidebar.button("🔄 Clear Selection & Reset Filters", use_container_width=True):
+if st.sidebar.button("🔄 Clear Selection & Reset Filters", width='stretch'):
     st.session_state.selected_countries = []
     st.session_state.filter_reset_counter += 1
     st.rerun()
@@ -145,7 +145,7 @@ fig_map.update_layout(
     )
 )
 
-st.plotly_chart(fig_map, use_container_width=True, key="map")
+st.plotly_chart(fig_map, width='stretch', key="map")
 
 st.markdown("---")
 
@@ -209,7 +209,7 @@ with col_left:
         dragmode='select'
     )
     
-    event1 = st.plotly_chart(fig1, use_container_width=True, key="scatter1", on_select="rerun")
+    event1 = st.plotly_chart(fig1, width='stretch', key="scatter1", on_select="rerun")
     
     # Update selected countries from this plot
     if event1 and 'selection' in event1:
@@ -290,7 +290,7 @@ with col_right:
         dragmode='select'
     )
     
-    event2 = st.plotly_chart(fig2, use_container_width=True, key="scatter2", on_select="rerun")
+    event2 = st.plotly_chart(fig2, width='stretch', key="scatter2", on_select="rerun")
     
     # Update selected countries from this plot
     if event2 and 'selection' in event2:
@@ -395,7 +395,7 @@ if len(df_co2) > 0:
         dragmode='select'
     )
     
-    event_co2 = st.plotly_chart(fig_co2, use_container_width=True, key="scatter3", on_select="rerun")
+    event_co2 = st.plotly_chart(fig_co2, width='stretch', key="scatter3", on_select="rerun")
     
     # Update selected countries from this plot
     if event_co2 and 'selection' in event_co2:
@@ -449,7 +449,7 @@ with col_left2:
         yaxis={'categoryorder': 'total ascending'}
     )
     
-    st.plotly_chart(fig4, use_container_width=True, key="bar1")
+    st.plotly_chart(fig4, width='stretch', key="bar1")
 
 with col_right2:
     st.subheader("📉 Top 10 Countries by Infant Mortality")
@@ -476,7 +476,7 @@ with col_right2:
         yaxis={'categoryorder': 'total ascending'}
     )
     
-    st.plotly_chart(fig5, use_container_width=True, key="bar2")
+    st.plotly_chart(fig5, width='stretch', key="bar2")
 
 # ============================================================================
 # VISUALIZATION 7: Cluster Comparison (LINKED)
@@ -535,7 +535,7 @@ for idx, cluster in enumerate(cluster_summary['Cluster_K2']):
 fig6.update_layout(height=350, showlegend=True)
 fig6.update_xaxes(showticklabels=False)
 
-st.plotly_chart(fig6, use_container_width=True)
+st.plotly_chart(fig6, width='stretch')
 
 # ============================================================================
 # Data Table with Search (LINKED)
@@ -564,7 +564,7 @@ df_table = df_table.rename(columns={
     'Cluster_K2': 'Status'
 })
 
-st.dataframe(df_table, use_container_width=True, height=350)
+st.dataframe(df_table, width='stretch', height=350)
 
 # Summary
 col1, col2 = st.columns(2)
